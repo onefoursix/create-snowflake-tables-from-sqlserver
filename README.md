@@ -25,7 +25,7 @@ The pipeline looks like this (a full sized image is [here](images/pipeline.png))
 
 
 ## Import the Pipeline into Control Hub
-The pipeline can be downloaded from [here](CreateSnowflakeTablesFromSQLServer.json) and imported into Control Hub.
+The pipeline can be downloaded from [here](pipelines/CreateSnowflakeTablesFromSQLServer.json) and imported into Control Hub.
 
 ## Pipeline Parameters
 
